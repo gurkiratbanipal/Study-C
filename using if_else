@@ -9,7 +9,7 @@ int main()
 
   if (n > 0)
     printf("Greater than zero \n");
-  else
+   else
     printf("Less than zero \n");
 
   return 0;
